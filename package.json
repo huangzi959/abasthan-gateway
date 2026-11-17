@@ -1,0 +1,1 @@
+{"description":"Token-gated personal utility gateway: remote shell + fetch proxy for an Abasthan free instance.","engines":{"node":"22.x"},"main":"index.js","name":"abasthan-gateway","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
